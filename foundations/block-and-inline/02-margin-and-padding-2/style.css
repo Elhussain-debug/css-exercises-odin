@@ -25,11 +25,13 @@ body {
 .button-container {
   background: #e3f4ff;
   padding: 16px;
+  
 }
+
+.button-container .button { padding-top: 20px; }
 
 button {
   background: white;
   border: 1px solid #eee;
   padding: 16px;
-  margin-left: 100px;
 }
